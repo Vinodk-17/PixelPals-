@@ -1,3 +1,3 @@
-# PixelPal Social Media Application
+# ShareMe Social Media Application
 
 

@@ -43,7 +43,7 @@ const Login = () => {
 
           <div className="shadow-2xl">
             <GoogleLogin
-              clientId={`${process.env.REACT_APP_GOOGLE_API_TOKEN}`}
+              clientId={'279799705886-f12qvb3vs1tojqcf3v9j8291omuaqcm1.apps.googleusercontent.com'}
               render={(renderProps) => (
                 <button
                   type="button"
